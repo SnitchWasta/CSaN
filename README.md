@@ -1,2 +1,2 @@
 # CSaN
-for labs and everuthing
+for labs and everything

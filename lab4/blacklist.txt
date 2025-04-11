@@ -1,0 +1,2 @@
+﻿example.com
+badwebsite.com/suspicious
